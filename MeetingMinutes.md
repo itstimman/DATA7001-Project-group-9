@@ -28,10 +28,12 @@ Tim:
 - [ ] Handle recording of 2-minute pitch due on 03/09/2021
 - [ ] Possibly create a few slides relating to this
 - [ ] Create Github for the group
+
 Mark:
 - [ ] Assist with scoping out project and slides
 - [ ] Download raw data for Option 2 and upload to Github to see viability
 - [ ] Create minutes and post it to Github
+
 Jingxin and Linyuan:
 - [ ] Have a look at the data and do initial exploratory data analysis
 - [ ] Create 1-2 plots showing initial exploration
@@ -61,6 +63,6 @@ __Next meeting Friday 27/08/2021 at 12:00pm AEST__
 * SEQ does not have enough drinking water for booming population
 
 ## Actions:
-- [x] Everyone to do some research and have an option (with data) to present next meeting.
+- [ ] Everyone to do some research and have an option (with data) to present next meeting.
 
 __Next meeting Monday 23/08/2021 at 12:30pm AEST__
