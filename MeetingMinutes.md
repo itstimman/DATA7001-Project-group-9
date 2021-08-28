@@ -5,13 +5,14 @@
 ## Agenda:
 
 * Discussed work done since last meeting.
-* Mark pulled Twitter data using script.
-* Jingxin created plots for 
+* Mark pulled Twitter data and created plots using R script.
+* Jingxin created plots for Olympic Data using software.
+* Linyuan created Jupyter script to plot data, created geomap showing cumulative medals won for countries.
 
-* Decided scope of the project will be primarily Summer Olympic medal data from inception to present + world facts data.
+* Decided the project will be on Summer Olympic medal data from inception to present + world facts data.
 * Scope:
   * By using data from Summer Olympics since 1930's, see which factors result in a country winning medals
-  * Train model using summer data, and test accuracy/optimise for winter data
+  * Create model using Summer Olympics data, and further test accuracy/optimise for Winter Olympics data
 * Possible contributing factors:
   * Hemisphere country is located in
   * Season in home country when games are held
