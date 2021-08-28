@@ -37,37 +37,37 @@ __Next meeting Tuesday 31/08/2021 at 4:30pm AEST__
 * Discussed various options for data science project:
 1.	__Dataset from Kaggle for Olympic medallists since ~1930s__
  * Various attributes:
-  * Name of winner, type of medal won, date won
-  * Location and year of Olympic games, winter/summer
-  * Sport, country represented
-  * Could potentially look at seeing trends between winner and country GDP, or whether hosting Olympics significantly effects chances of winning a medal
+   * Name of winner, type of medal won, date won
+   * Location and year of Olympic games, winter/summer
+   * Sport, country represented
+   * Could potentially look at seeing trends between winner and country GDP, or whether hosting Olympics significantly effects chances of winning a medal
 2.	__Twitter ID dataset (1 billion Twitter IDs) from hashtags related to COVID-19 since March 2020 until present__
-  * Data will need to be refreshed/downloaded from Twitter site due to terms of use (cannot share Tweets on public domains, only Twitter IDs)
-  * Data cleaning will need to be done - but has been done by multiple others already (can we use their source code?)
-  * Possible scope:
-  * Sentiment polarity is impacted by trend of COVID-19 cases in the country the Tweet was made from
-  * Sentiment polarity is impacted by stringency of lockdowns in the country COVID-19: Stringency Index (ourworldindata.org)
-  * Sentiment polarity on vaccines compared to COVID-19 vaccine take-up (predict future vaccine hesitancy?)
-  * Alter the hashtags looked at to include Australia-specific terms (e.g. #ScoMo, #Antilockdownprotest, #Auspol)
+   * Data will need to be refreshed/downloaded from Twitter site due to terms of use (cannot share Tweets on public domains, only Twitter IDs)
+   * Data cleaning will need to be done - but has been done by multiple others already (can we use their source code?)
+   * Possible scope:
+   * Sentiment polarity is impacted by trend of COVID-19 cases in the country the Tweet was made from
+   * Sentiment polarity is impacted by stringency of lockdowns in the country COVID-19: Stringency Index (ourworldindata.org)
+   * Sentiment polarity on vaccines compared to COVID-19 vaccine take-up (predict future vaccine hesitancy?)
+   * Alter the hashtags looked at to include Australia-specific terms (e.g. #ScoMo, #Antilockdownprotest, #Auspol)
 3.	__Electric cars__
- * Information about the cost of electric cars
+   * Information about the cost of electric cars
 
 * Concerns raised about Option 2 being too large in scope
 
 ## Actions: 
 Tim:
-- [ ] Handle recording of 2-minute pitch due on 03/09/2021
-- [ ] Possibly create a few slides relating to this
-- [ ] Create Github for the group
+  * Handle recording of 2-minute pitch due on 03/09/2021
+  * Possibly create a few slides relating to this
+  * Create Github for the group
 
 Mark:
-- [ ] Assist with scoping out project and slides
-- [ ] Download raw data for Option 2 and upload to Github to see viability
-- [ ] Create minutes and post it to Github
+  * Assist with scoping out project and slides
+  * Download raw data for Option 2 and upload to Github to see viability
+  * Create minutes and post it to Github
 
 Jingxin and Linyuan:
-- [ ] Have a look at the data and do initial exploratory data analysis
-- [ ] Create 1-2 plots showing initial exploration
+  * Have a look at the data and do initial exploratory data analysis
+  * Create 1-2 plots showing initial exploration
 
 __Next meeting Friday 27/08/2021 at 12:00pm AEST__
 
