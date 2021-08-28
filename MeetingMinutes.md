@@ -10,24 +10,24 @@
 
 * Decided scope of the project will be primarily Summer Olympic medal data from inception to present + world facts data.
 * Scope:
- * By using data from Summer Olympics since 1930's, see which factors result in a country winning medals
- * Train model using summer data, and test accuracy/optimise for winter data
+  * By using data from Summer Olympics since 1930's, see which factors result in a country winning medals
+  * Train model using summer data, and test accuracy/optimise for winter data
 * Possible contributing factors:
- * Hemisphere country is located in
- * Season in home country when games are held
- * Favourite sport in that country (might need additional survey)
- * Consider different sports in each Olympics
+  * Hemisphere country is located in
+  * Season in home country when games are held
+  * Favourite sport in that country (might need additional survey)
+  * Consider different sports in each Olympics
 
 ## Actions: 
 
 * Linyuan: 
- * Look at making GIF (doesn't have to be by pitch due date)
- * Upload jupyter/R export file to GitHub
- * Create GDP vs population / number of athletes plot
+  * Look at making GIF (doesn't have to be by pitch due date)
+  * Upload jupyter/R export file to GitHub
+  * Create GDP vs population / number of athletes plot
 * Jingxin
- * Explore different attributes and their impact on medal tally etc.
+  * Explore different attributes and their impact on medal tally etc.
 * Mark / Tim:
- * Start working on PowerPoint, will sort out recording of presentation
+  * Start working on PowerPoint, will sort out recording of presentation
 
 __Next meeting Tuesday 31/08/2021 at 4:30pm AEST__
 
