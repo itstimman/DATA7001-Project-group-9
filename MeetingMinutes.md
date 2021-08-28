@@ -1,5 +1,36 @@
 [See all meeting minutes here (may require login to OneDrive)](https://1drv.ms/w/s!AlU0VN3l8ILZsLle6a97rHUwRQeVQA?e=PF067q)
 
+# Minutes for Meeting 3 (28/08/2021)
+
+## Agenda:
+
+* Discussed work done since last meeting.
+* Mark pulled Twitter data using script.
+* Jingxin created plots for 
+
+* Decided scope of the project will be primarily Summer Olympic medal data from inception to present + world facts data.
+* Scope:
+ * By using data from Summer Olympics since 1930's, see which factors result in a country winning medals
+ * Train model using summer data, and test accuracy/optimise for winter data
+* Possible contributing factors:
+ * Hemisphere country is located in
+ * Season in home country when games are held
+ * Favourite sport in that country (might need additional survey)
+ * Consider different sports in each Olympics
+
+## Actions: 
+
+* Linyuan: 
+ * Look at making GIF (doesn't have to be by pitch due date)
+ * Upload jupyter/R export file to GitHub
+ * Create GDP vs population / number of athletes plot
+* Jingxin
+ * Explore different attributes and their impact on medal tally etc.
+* Mark / Tim:
+ * Start working on PowerPoint, will sort out recording of presentation
+
+__Next meeting Tuesday 31/08/2021 at 4:30pm AEST__
+
 # Minutes for Meeting 2 (23/08/2021)
 
 ## Agenda:
